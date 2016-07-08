@@ -6,6 +6,7 @@ var argv = require('minimist')(process.argv.slice(2));
 var increment = argv['i'];
 
 zetta()
+  .name('My Driving App')
   .use(Automobile, {increment: increment})
   .use(style)
   .link('http://dev.zettaapi.org')

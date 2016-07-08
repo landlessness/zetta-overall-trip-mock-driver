@@ -1,6 +1,6 @@
 {
-  "name": "zetta-automobile-mock-driver",
-  "version": "0.1.0",
+  "name": "zetta-overall-trip-mock-driver",
+  "version": "0.0.1",
   "description": "Mock automobile device for Zetta that generates a sine wave.",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zettajs/zetta-automobile-mock-driver.git"
+    "url": "https://github.com/landlessness/zetta-overall-trip-mock-driver"
   },
   "bugs": {
-    "url": "https://github.com/zettajs/zetta-automobile-mock-driver/issues"
+    "url": "https://github.com/landlessness/zetta-overall-trip-mock-driver/issues"
   },
-  "homepage": "https://github.com/zettajs/zetta-automobile-mock-driver",
+  "homepage": "https://github.com/landlessness/zetta-overall-trip-mock-driver",
   "dependencies": {
     "zetta-device": "^0.19.0"
   }
