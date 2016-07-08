@@ -1,0 +1,25 @@
+{
+  "name": "zetta-automobile-mock-driver",
+  "version": "0.1.0",
+  "description": "Mock automobile device for Zetta that generates a sine wave.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta"
+  ],
+  "author": "Brian Mulloy <brian@landlessnes.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zettajs/zetta-automobile-mock-driver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-automobile-mock-driver/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-automobile-mock-driver",
+  "dependencies": {
+    "zetta-device": "^0.19.0"
+  }
+}
